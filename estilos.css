@@ -171,7 +171,7 @@ header{
 
 
   .hero{
-    background-image: url('https://raw.githubusercontent.com/EuggeGomez/delpensaralhacer/refs/heads/main/butterfly.png');
+    background-image: url('https://raw.githubusercontent.com/EuggeGomez/delpensaralhacer/main/butterfly.png');
     background-blend-mode: overlay;
     background-color: rgba(0, 0, 0, 0.3);
     background-size:cover ;
@@ -881,7 +881,7 @@ color: #b7c3a6;
 /* fin de Actividades*/
 
 .areasdecoaching{
-  background-image: url('https://raw.githubusercontent.com/EuggeGomez/delpensaralhacer/refs/heads/main/butterfly.png');
+  background-image: url('https://raw.githubusercontent.com/EuggeGomez/delpensaralhacer/main/butterfly.png');
   opacity: 0.8;
   background-size:cover ;
   background-position: center;
