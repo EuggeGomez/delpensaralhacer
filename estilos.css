@@ -1262,17 +1262,19 @@ span{
 }
 
 
-.cita-inspiradora{
-  background-image: url('mariposa_1.png');
-   background-blend-mode: overlay;
+.cita-inspiradora {
+    background-image: url('https://raw.githubusercontent.com/EuggeGomez/delpensaralhacer/main/mariposa_1.png');
+    background-blend-mode: overlay;
     background-color: rgba(0, 0, 0, 0.4);
-  background-size:cover ;
-  background-position: center;
-   max-width: 100%;
+    background-size: cover;
+    background-position: center;
+    max-width: 100%;
     display: flex;
     align-items: center;
     justify-content: flex-start;
     padding: 40px 5%;
+    /* Add a height or min-height if this element might be empty or collapse */
+    min-height: 200px; /* Example: Adjust as needed based on your design */
 }
 .cita-inspiradora p{
   font-size: 1em;
