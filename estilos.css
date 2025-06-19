@@ -1263,7 +1263,7 @@ span{
 
 
 .cita-inspiradora{
-  background-image: url('https://raw.githubusercontent.com/EuggeGomez/delpensaralhacer/main/mariposa_1.png');
+  background-image: url('mariposa_1.png');
    background-blend-mode: overlay;
     background-color: rgba(0, 0, 0, 0.4);
   background-size:cover ;
